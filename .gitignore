@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython history
+profile_default/
+ipython_config.py
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment and packaging
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing and coverage
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter outputs (optional: include if you want clean diffs)
+*.out
+*.err
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
